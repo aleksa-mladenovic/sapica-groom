@@ -1,9 +1,9 @@
 Requried packages:
-composer require laravel/ui
-composer require barryvdh/laravel-dompdf
+<br/>composer require laravel/ui
+<br/>composer require barryvdh/laravel-dompdf
 
 To use site please migrate database, seeding it with predefined users, productsm categories etc...
-php artisan migrate:refresh --seed 
+<br/>php artisan migrate:refresh --seed 
 
 This way database comes with 2 users
 Admin
