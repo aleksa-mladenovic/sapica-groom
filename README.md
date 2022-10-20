@@ -2,7 +2,7 @@ Requried packages:
 <br/>composer require laravel/ui
 <br/>composer require barryvdh/laravel-dompdf
 
-To use site please migrate database, seeding it with predefined users, productsm categories etc...
+To use site please migrate database, seeding it with predefined users, products, categories etc...
 <br/>php artisan migrate:refresh --seed 
 
 <br/>This way database comes with 2 users
