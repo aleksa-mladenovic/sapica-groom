@@ -5,12 +5,12 @@ Requried packages:
 To use site please migrate database, seeding it with predefined users, productsm categories etc...
 <br/>php artisan migrate:refresh --seed 
 
-This way database comes with 2 users
-Admin
-Email: admin@sapica.com
-sifra: 12345678
-Moderator
-Email: moderator@sapica.com
-sifra: 12345678
+<br/>This way database comes with 2 users
+<br/>Admin
+<br/>Email: admin@sapica.com
+<br/>password: 12345678
+<br/>Moderator
+<br/>Email: moderator@sapica.com
+<br/>password: 12345678
 
 For more detailed instruction use uputsvo.pdf, bear in mind that, for now its only available in serbian.
